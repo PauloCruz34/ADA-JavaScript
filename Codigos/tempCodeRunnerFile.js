@@ -1,11 +1,3 @@
-if (50 > 100) {
-    console.log("Falta um tanto");
-  } else {
-    if ("1" == "-1") {
-      console.log("Quase lá");    
-    }
-  
-    if (!null) {
-      console.log("Sucesso");
-    }
-  }
+for(let i = 0; i < 10; i++){   /* enquanto i for menor que 10 ira somar 1 unidade na variavel começando do 0 */
+    console.log("repetição",i)
+}
